@@ -1,0 +1,104 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(6549,6429)(0,-10)
+\path(3297,6177)(3747,6177)(3747,5952)
+	(3297,5952)(3297,6177)
+\path(3297,5727)(3747,5727)(3747,5502)
+	(3297,5502)(3297,5727)
+\path(3297,3702)(3747,3702)(3747,3477)
+	(3297,3477)(3297,3702)
+\path(3297,3252)(3747,3252)(3747,3027)
+	(3297,3027)(3297,3252)
+\path(3297,1677)(3747,1677)(3747,1452)
+	(3297,1452)(3297,1677)
+\path(3297,777)(3747,777)(3747,552)
+	(3297,552)(3297,777)
+\path(3297,5277)(3747,5277)(3747,5052)
+	(3297,5052)(3297,5277)
+\path(3522,5952)(3522,5727)
+\path(3522,5502)(3522,5277)
+\path(3522,5052)(3522,3702)
+\path(3522,3477)(3522,3252)
+\path(3522,3027)(3522,1677)
+\path(3522,1452)(3522,777)
+\path(3522,6402)(3522,6177)
+\path(12,6177)(2172,6177)(2172,5817)
+	(12,5817)(12,6177)
+\path(12,5727)(3072,5727)(3072,4557)
+	(12,4557)(12,5727)
+\path(12,4377)(3072,4377)(3072,3387)
+	(12,3387)(12,4377)
+\path(12,3252)(3072,3252)(3072,2397)
+	(12,2397)(12,3252)
+\path(12,1677)(3072,1677)(3072,912)
+	(12,912)(12,1677)
+\path(12,777)(3072,777)(3072,327)
+	(12,327)(12,777)
+\path(3522,552)(3522,12)
+\blacken\path(3492.000,132.000)(3522.000,12.000)(3552.000,132.000)(3492.000,132.000)
+\path(3972,6177)(6087,6177)(6087,5817)
+	(3972,5817)(3972,6177)
+\path(3972,5277)(6537,5277)(6537,3927)
+	(3972,3927)(3972,5277)
+\path(3972,3252)(6537,3252)(6537,1902)
+	(3972,1902)(3972,3252)
+\put(3387,5997){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1815}}}}
+\put(3387,5547){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1817}}}}
+\put(3387,3522){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1830}}}}
+\put(3387,3072){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1832}}}}
+\put(3387,1497){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1844}}}}
+\put(3387,597){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1848}}}}
+\put(282,597){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\bfdefault}{\updefault}Revolution in ganz Deutschland und}}}}
+\put(282,447){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\bfdefault}{\updefault}"Osterreich}}}}
+\put(3387,5097){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}1819}}}}
+\put(57,6042){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\bfdefault}{\updefault}LIBERALISMUS}}}}
+\put(57,5862){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Gr"undung von Burschenschaften}}}}
+\put(57,5547){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}Wartburgfest 18./19. Oktober 1817}}}}
+\put(57,5367){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Infolge des steigenden Bed"urfnisses nach  nat. Ein-}}}}
+\put(57,5067){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}tuelle zum Andenken an die V"olkerschlacht und}}}}
+\put(57,4917){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}zum 300j"ahrigen Jubil"aum der Reformation zu einem}}}}
+\put(57,4767){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Fest auf der Wartburg. -- Die Forderung nach einem}}}}
+\put(57,4617){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Zusammenschluss der Burschenschaften wurde laut.}}}}
+\put(57,4197){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}Julirevolution in Frankreich}}}}
+\put(57,4017){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Die hier erfolgte Wahl eines K"onigs durch das Volk}}}}
+\put(57,2892){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Ungef"ahr 3000 B"urger -- nun aus allen Bev"olke-}}}}
+\put(57,2592){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}freiheit, einen freiheitlichen deutschen Einheitsstaat,}}}}
+\put(57,2442){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}also eine \jar{Wiedergeburt Deutschlands}.}}}}
+\put(57,3072){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}Hambacher Fest 6.\,--\,31.  Mai 1832}}}}
+\put(57,1497){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}Aufstand der schlesischen Weber 1844}}}}
+\put(57,1317){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Forderungen:}}}}
+\put(57,1167){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- Verbesserung der Lebens- und Arbeitsbedingungen}}}}
+\put(57,1002){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- keine Anschaffung von Maschinen}}}}
+\put(4017,4872){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- Bundesuniversit"atsgesetz:  staatliche}}}}
+\put(4017,4572){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- Bundespre"sgesetz: Zensur -- Presse- und}}}}
+\put(4017,4272){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- Bundesuntersuchungsgesetz: Untersu-}}}}
+\put(4017,6042){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\bfdefault}{\updefault}RESTAURATION}}}}
+\put(4017,5862){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Wiener Kongress}}}}
+\put(4017,3072){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}\ges{Die zehn Artikel} Metternichs 5.\,7.\,1832}}}}
+\put(4017,2847){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- weitere Einschr"ankung von Presse- und}}}}
+\put(4017,2547){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- Verfassungsauslegung durch den Bund}}}}
+\put(4017,2397){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}-- "Uberwachnung der Landtage}}}}
+\put(4017,2247){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Damit Verhinderung weiterer liberaler}}}}
+\put(4017,2097){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Fortschritte, aber nur kurzzeitig. -- F"uhrte}}}}
+\put(4017,1947){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}zur Radikalisierung.}}}}
+\put(4017,5097){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\rmdefault}{\bfdefault}{\updefault}Karlsbader Beschl"usse 6.\,--\,31.\,8.\,1819}}}}
+\put(4152,4737){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}"Uberwachung der Universit"aten}}}}
+\put(4152,4107){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}chungsbeh"orde gegen revolution"are Ak-}}}}
+\put(4152,3972){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}tivit"aten}}}}
+\put(4152,2712){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Versammlungsfreiheit}}}}
+\put(57,5217){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}heit und Freiheit trafen sich vornehmlich Intellek-}}}}
+\put(57,3867){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}hatte eine Beispielwirkung auf Deutschland. Au"ser-}}}}
+\put(57,2742){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}rungsschichten -- forderten Volkssouver"anit"at, Presse-}}}}
+\put(57,3717){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}dem belebten die revolution"aren Ereignisse im Aus-}}}}
+\put(57,3567){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}land die in Deutschland wieder und f"uhrten so zum}}}}
+\put(57,3417){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Hambacher Fest.}}}}
+\put(4152,4422){\makebox(0,0)[lb]{\smash{{\SetFigFont{7}{8.4}{\familydefault}{\mddefault}{\updefault}Meinungsfreiheit litten}}}}
+\end{picture}
+}

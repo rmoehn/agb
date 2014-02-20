@@ -1,0 +1,90 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(6383,3473)(0,-10)
+\path(1559,3315)(1813,2940)(2073,2565)
+	(2333,2192)(2587,1815)(2846,1442)
+	(3103,1067)(12,1067)(272,1442)
+	(528,1815)(786,2192)(1041,2565)
+	(1301,2940)(1559,3315)
+\path(1304,2942)(1813,2940)
+\path(1041,2565)(2073,2565)
+\path(786,2192)(2333,2192)
+\path(272,1442)(2846,1442)
+\path(1558,2940)(1558,2565)
+\path(1301,2565)(1301,2192)
+\path(1813,2565)(1813,2192)
+\path(1171,2192)(1171,1815)
+\path(528,1815)(2587,1815)
+\path(1943,2192)(1943,1815)
+\path(2822,1566)(3258,1566)
+\blacken\path(3174.760,1545.190)(3258.000,1566.000)(3174.760,1586.810)(3174.760,1545.190)
+\path(4478,1785)(3884,1598)
+\blacken\path(3957.149,1642.845)(3884.000,1598.000)(3969.647,1603.146)(3957.149,1642.845)
+\path(1511,1036)(1511,816)
+\blacken\path(1490.190,899.240)(1511.000,816.000)(1531.810,899.240)(1490.190,899.240)
+\path(5996,1785)(5996,816)
+\blacken\path(5975.190,899.240)(5996.000,816.000)(6016.810,899.240)(5975.190,899.240)
+\path(2703,3407)(4289,3407)
+\blacken\path(4205.760,3386.190)(4289.000,3407.000)(4205.760,3427.810)(4205.760,3386.190)
+\put(3354,1535){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}BILANZ:}}}}
+\put(3354,1401){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- feudalistisch-agrarisch}}}}
+\put(3354,1263){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- pers"onliche und wirtschaftliche Abh"angigkeiten}}}}
+\put(3354,1130){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}$\Longrightarrow$ \textbf{keine Chancen zur Industrialisierung}}}}}
+\put(511,691){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}notwendige Ver"anderungen:}}}}
+\put(511,557){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- System der Mitbestimmung statt Absolutismus}}}}
+\put(511,421){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- Steigerung der Stellung des B"urgertums}}}}
+\put(3792,309){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Abschaffung wirtschaftlicher Abh"angigkeiten}}}}
+\put(3792,174){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- einheitlicher Markt}}}}
+\put(3792,39){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- Verbesserung der Infrastruktur}}}}
+\put(3792,444){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}   und Landwirtschaft}}}}
+\put(3792,579){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- Schaffung von wirtschaftlicher Freiheit in Gewerbe}}}}
+\put(3792,714){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}notwendige Ver"anderungen:}}}}
+\put(1012,2408){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Guts-}}}}
+\put(1012,2317){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}besit-}}}}
+\put(1012,2222){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}zer}}}}
+\put(1324,2441){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}freies}}}}
+\put(1324,2253){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}b"urgertum}}}}
+\put(1324,2347){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Stadt-}}}}
+\put(1854,2441){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Offi-}}}}
+\put(1854,2347){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}ziers-}}}}
+\put(1854,2253){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}stand}}}}
+\put(792,2003){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}abh.}}}}
+\put(792,1910){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Beamte}}}}
+\put(1292,2003){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Handwer-}}}}
+\put(1292,1910){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}ker}}}}
+\put(2043,2003){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Kauf-}}}}
+\put(2043,1910){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}leute}}}}
+\put(1605,2721){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Kirche}}}}
+\put(1261,2721){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Adel}}}}
+\put(1480,3034){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Hof}}}}
+\put(1385,1598){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Bauern}}}}
+\put(853,1223){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}rechtlose H"ausler und Einlieger}}}}
+\put(3134,2784){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}absolutistische Monarchie}}}}
+\put(3134,2970){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}Monarchie}}}}
+\put(3134,2596){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}St"andegesellschaft}}}}
+\put(2153,2596){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}\textbf{Gesellschaftsform:}}}}}
+\put(2153,2970){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}\textbf{Staatsform:}}}}}
+\put(2153,2784){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}\textbf{Regierungsform:}}}}}
+\put(1915,2970){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}$\longrightarrow$}}}}
+\put(4445,3188){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}a) Wirtschaftsweise:}}}}
+\put(4569,3065){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- Leibeigenschaft}}}}
+\put(4569,2930){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- fast rein agrarisch}}}}
+\put(4569,2794){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- z"unftig gegliedertes Handwerk}}}}
+\put(4569,2659){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- fiskalische Orientierung}}}}
+\put(4445,2473){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}b) Wirtschaftsraum:}}}}
+\put(4569,2347){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- kleine halbautarke M"arkte}}}}
+\put(4569,2077){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- Ein-/Aus-/Durchfuhrz"olle}}}}
+\put(4445,1880){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}$\longrightarrow$}}}}
+\put(4661,1880){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}\textbf{Wirtschaftsweise:} Merkantilismus}}}}
+\put(4569,2210){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}-- unterschiedliche Ma"se und Gewichte}}}}
+\put(697,3377){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}soziales bzw. gesellschaftliches Gef"uge}}}}
+\put(4381,3377){\makebox(0,0)[lb]{\smash{{\SetFigFont{4}{7.2}{\familydefault}{\mddefault}{\updefault}wirtschaftliche Konsequenzen:}}}}
+\end{picture}
+}

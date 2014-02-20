@@ -1,0 +1,142 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(7674,5439)(0,-10)
+\path(5772,552)(7662,552)(7662,12)
+	(5772,12)(5772,552)
+\path(5772,1452)(7662,1452)(7662,732)
+	(5772,732)(5772,1452)
+\path(5772,2982)(7662,2982)(7662,2442)
+	(5772,2442)(5772,2982)
+\path(5772,3612)(7662,3612)(7662,3162)
+	(5772,3162)(5772,3612)
+\path(5772,4242)(7662,4242)(7662,3792)
+	(5772,3792)(5772,4242)
+\path(5772,4962)(7662,4962)(7662,4422)
+	(5772,4422)(5772,4962)
+\path(5772,2262)(7662,2262)(7662,1632)
+	(5772,1632)(5772,2262)
+\path(6762,2442)(6762,2262)
+\blacken\path(6739.500,2337.000)(6762.000,2262.000)(6784.500,2337.000)(6739.500,2337.000)
+\path(6762,3162)(6762,2982)
+\blacken\path(6739.500,3057.000)(6762.000,2982.000)(6784.500,3057.000)(6739.500,3057.000)
+\path(6762,4422)(6762,4242)
+\blacken\path(6739.500,4317.000)(6762.000,4242.000)(6784.500,4317.000)(6739.500,4317.000)
+\path(6762,3792)(6762,3612)
+\blacken\path(6739.500,3687.000)(6762.000,3612.000)(6784.500,3687.000)(6739.500,3687.000)
+\path(6762,1632)(6762,1452)
+\blacken\path(6739.500,1527.000)(6762.000,1452.000)(6784.500,1527.000)(6739.500,1527.000)
+\path(6762,732)(6762,552)
+\blacken\path(6739.500,627.000)(6762.000,552.000)(6784.500,627.000)(6739.500,627.000)
+\path(112,1406)(299,1406)
+\blacken\path(222.500,1383.050)(299.000,1406.000)(222.500,1428.950)(222.500,1383.050)
+\path(12,1812)(2352,1812)(2352,1272)
+	(12,1272)(12,1812)
+\path(1092,3882)(3072,3882)(3072,3162)
+	(1092,3162)(1092,3882)
+\path(1542,4422)(3522,4422)(3522,3972)
+	(1542,3972)(1542,4422)
+\path(1992,4962)(3972,4962)(3972,4512)
+	(1992,4512)(1992,4962)
+\path(2442,462)(2442,102)(5682,282)(2442,462)
+\path(5682,372)(5682,732)(2442,552)(5682,372)
+\path(101,2615)(261,2615)
+\blacken\path(186.000,2592.500)(261.000,2615.000)(186.000,2637.500)(186.000,2592.500)
+\path(12,3072)(2082,3072)(2082,2352)
+	(12,2352)(12,3072)
+\path(2262,2532)(2442,2532)
+\blacken\path(2367.000,2509.500)(2442.000,2532.000)(2367.000,2554.500)(2367.000,2509.500)
+\path(2172,3072)(4152,3072)(4152,2352)
+	(2172,2352)(2172,3072)
+\path(1092,1272)(1092,1092)
+\blacken\path(1069.500,1167.000)(1092.000,1092.000)(1114.500,1167.000)(1069.500,1167.000)
+\path(642,1812)(642,1992)(1092,1992)
+\blacken\path(1017.000,1969.500)(1092.000,1992.000)(1017.000,2014.500)(1017.000,1969.500)
+\path(1092,2172)(732,2172)(732,2352)
+\blacken\path(754.500,2277.000)(732.000,2352.000)(709.500,2277.000)(754.500,2277.000)
+\path(3072,2172)(3432,2172)(3432,2352)
+\blacken\path(3454.500,2277.000)(3432.000,2352.000)(3409.500,2277.000)(3454.500,2277.000)
+\path(732,3072)(732,3522)(1092,3522)
+\blacken\path(1017.000,3499.500)(1092.000,3522.000)(1017.000,3544.500)(1017.000,3499.500)
+\path(3432,3072)(3432,3522)(3072,3522)
+\blacken\path(3147.000,3544.500)(3072.000,3522.000)(3147.000,3499.500)(3147.000,3544.500)
+\path(1272,3882)(1272,4242)(1542,4242)
+\blacken\path(1467.000,4219.500)(1542.000,4242.000)(1467.000,4264.500)(1467.000,4219.500)
+\path(1722,4422)(1722,4782)(1992,4782)
+\blacken\path(1917.000,4759.500)(1992.000,4782.000)(1917.000,4804.500)(1917.000,4759.500)
+\path(2172,4962)(2172,5232)(2442,5232)
+\blacken\path(2367.000,5209.500)(2442.000,5232.000)(2367.000,5254.500)(2367.000,5209.500)
+\path(6222,5232)(6762,5232)(6762,4962)
+\blacken\path(6739.500,5037.000)(6762.000,4962.000)(6784.500,5037.000)(6739.500,5037.000)
+\path(2712,1362)(5322,1362)(5322,1002)
+	(2712,1002)(2712,1362)
+\path(732,732)(732,552)
+\blacken\path(709.500,627.000)(732.000,552.000)(754.500,627.000)(709.500,627.000)
+\path(12,1092)(2352,1092)(2352,12)
+	(12,12)(12,1092)
+\path(1092,2262)(3072,2262)(3072,1902)
+	(1092,1902)(1092,2262)
+\path(2442,5412)(6222,5412)(6222,5052)
+	(2442,5052)(2442,5412)
+\path(5322,5277)(3117,5277)
+\put(5862,372){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}18.\,6.\,1849}}}}
+\put(5862,192){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Aufl"osung des Rumpfparlaments}}}}
+\put(5862,57){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}durch das Milit"ar}}}}
+\put(5862,1272){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Juni 1849}}}}
+\put(5862,1092){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Viele Abgeordnete sehen in iher}}}}
+\put(5862,957){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}T"atigkeit keinen Sinn mehr und}}}}
+\put(5862,822){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}reisen ab.}}}}
+\put(5862,2802){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}28.\,3.\,1849}}}}
+\put(5862,2622){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Annahme der Verfassung und}}}}
+\put(5862,2487){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Wahl des Kaisers}}}}
+\put(5862,3432){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}November 1848}}}}
+\put(5862,3252){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Preu"s. Truppen besetzen Berlin}}}}
+\put(5862,4062){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Okt. 1848 -- M"arz 1849}}}}
+\put(5862,3882){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Arbeit an der Verfassung}}}}
+\put(5862,4782){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Oktober 1848}}}}
+\put(5862,4602){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Kaisertruppen gewinnen Berlin}}}}
+\put(5862,4467){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}zur"uck}}}}
+\put(5862,2082){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}28.\,4.\,1849}}}}
+\put(5862,1902){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Ablehnung der Kaiserkrone durch}}}}
+\put(5862,1767){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}den preu"sischen K"onig}}}}
+\put(293,1363){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Frankreich wird Republik}}}}
+\put(113,1509){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Februarrevolution in Frankreich 1848}}}}
+\put(106,1656){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Ausgangspunkt:}}}}
+\put(1182,3702){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}30.\,3.\,1848}}}}
+\put(1182,3522){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Frankfurter Vorparlament, Wahlen}}}}
+\put(1182,3387){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}zur Nationalversammlung (Pauls-}}}}
+\put(1182,3252){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}kirche)}}}}
+\put(1632,4242){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}April 1848}}}}
+\put(1632,4062){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Durchf"uhrung der Wahlen}}}}
+\put(2082,4782){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Mai 1848}}}}
+\put(2082,4602){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Er"offnung der Nationalversammlung}}}}
+\put(2535,237){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}liberaler Einfluss}}}}
+\put(4386,507){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}konservativer Einfluss}}}}
+\put(102,462){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}revolution"are Situation in}}}}
+\put(102,327){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Deutschland, "Osterreich und}}}}
+\put(102,192){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}anderen Gebieten des Deutschen}}}}
+\put(102,57){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Bundes}}}}
+\put(102,2892){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}13.\,--\,15.\,3.\,1848}}}}
+\put(102,2712){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Ausbruch der Revolution in Wien}}}}
+\put(289,2577){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Abdankung Metternichs}}}}
+\put(2442,2577){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}preu"s. K"onig verspricht Natio-}}}}
+\put(2442,2442){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}nalversammlung und Verfassung}}}}
+\put(2262,2892){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}18./19.\,3.\,1848}}}}
+\put(2262,2712){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Barrikadenk"ampfe in Berlin}}}}
+\put(102,948){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Konfrontation der europ"aischen}}}}
+\put(102,678){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Revolution}}}}
+\put(102,813){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Bev"olkerung mit den Ideen der}}}}
+\put(1182,2082){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Adressenst"urme und M"arzmi-}}}}
+\put(1182,1947){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}nisterien im Deutschen Bund}}}}
+\put(2532,5232){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Mai 1848 }}}}
+\put(2532,5108){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\familydefault}{\mddefault}{\updefault}Arbeit an den Grundrechten}}}}
+\put(5367,5232){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\bfdefault}{\updefault}Oktober 1848}}}}
+\put(2802,1137){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\bfdefault}{\updefault}Verlauf der Revolution von 1848}}}}
+\end{picture}
+}

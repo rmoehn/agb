@@ -1,0 +1,37 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(5318,1479)(0,-10)
+\path(3525,1272)(4785,1272)(4785,192)
+	(3525,192)(3525,1272)
+\path(285,822)(285,1452)(5145,1452)(5145,822)
+\path(5115.000,942.000)(5145.000,822.000)(5175.000,942.000)
+\path(645,1272)(1905,1272)(1905,192)
+	(645,192)(645,1272)
+\path(5145,552)(5145,12)(285,12)(285,552)
+\path(315.000,432.000)(285.000,552.000)(255.000,432.000)
+\path(2085,1272)(3345,1272)(3345,192)
+	(2085,192)(2085,1272)
+\put(3615,1092){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}3. Stufe}}}}
+\put(3615,912){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}1939\,--\,1944}}}}
+\put(3615,642){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Kriegswirtschaft}}}}
+\put(15,642){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Autarkie}}}}
+\put(735,1092){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}1. Stufe}}}}
+\put(735,912){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}1933\,--\,1936}}}}
+\put(735,642){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Arbeitsbeschaffung}}}}
+\put(735,462){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Finanzierung}}}}
+\put(735,282){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}R"ustung}}}}
+\put(4965,642){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Krieg}}}}
+\put(2175,1092){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}2. Stufe}}}}
+\put(2175,912){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}1936\,--\,1939}}}}
+\put(2175,642){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Vierjahresplan:}}}}
+\put(2175,492){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Umstellung auf}}}}
+\put(2175,342){\makebox(0,0)[lb]{\smash{{\SetFigFont{8}{9.6}{\rmdefault}{\mddefault}{\updefault}Kriegsproduktion}}}}
+\end{picture}
+}

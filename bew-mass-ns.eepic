@@ -1,0 +1,44 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(4296,1363)(0,-10)
+\whiten\path(2332,466)(2245,466)(2245,302)
+	(2176,302)(2289,190)(2401,302)
+	(2332,302)(2332,466)
+\path(2332,466)(2245,466)(2245,302)
+	(2176,302)(2289,190)(2401,302)
+	(2332,302)(2332,466)
+\whiten\path(2332,961)(2245,961)(2245,797)
+	(2176,797)(2289,685)(2401,797)
+	(2332,797)(2332,961)
+\path(2332,961)(2245,961)(2245,797)
+	(2176,797)(2289,685)(2401,797)
+	(2332,797)(2332,961)
+\path(1006,100)(1005,101)(1003,104)
+	(999,110)(994,118)(986,129)
+	(976,144)(965,161)(952,181)
+	(938,204)(923,228)(908,255)
+	(892,282)(877,311)(862,341)
+	(848,373)(835,405)(823,439)
+	(811,475)(801,513)(793,553)
+	(787,596)(782,640)(781,685)
+	(783,733)(788,779)(795,822)
+	(805,861)(816,897)(829,930)
+	(843,961)(858,989)(874,1016)
+	(891,1041)(908,1065)(924,1087)
+	(940,1107)(956,1125)(969,1140)
+	(981,1153)(990,1164)(1006,1180)
+\path(942.360,1073.934)(1006.000,1180.000)(899.934,1116.360)
+\put(1051,1225){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Ausgangslage 1933}}}}
+\put(1051,1030){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}bildet die politischen Ansatzpunkte/Ziele}}}}
+\put(1051,55){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}praktische Umsetzung der Ziele}}}}
+\put(1051,550){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Ziele des NS-Regimes speisen sich aus der Ideologie}}}}
+\put(16,775){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Bewertung}}}}
+\end{picture}
+}

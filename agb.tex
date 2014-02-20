@@ -1,0 +1,77 @@
+\documentclass[%
+    a4paper,%       Wir drucken auf A4.
+    twoside,%       Wir wollen zweiseitigen Druck.
+    openright,%     Kapitel sollen nur auf rechten Seiten öffnen.
+    ngerman,%       Wir sind doch nicht altmodisch.
+    headsepline,%   Eine Linie unterm Kopf.
+    headings=normal,
+    BCOR=23mm,%      Korrektur für die Faltung
+    toc=index,%     Der Index soll mit ins Inhaltsverzeichnis.
+    toc=flat,
+    draft%          Entwurf, oder doch schon fertig?
+%    final
+]{scrbook}
+\KOMAoptions{pagesize=dvips}    % auch physikalisch auf A5 drucken
+
+% Die neue Schrift seit dem 9. April 2010.
+%\usepackage{libertine} 
+% Zufällig darauf gekommen am 22. April 2010.
+\usepackage{fouriernc}
+
+% Alles, was so gut wie immer benötigt wird.
+\usepackage{mineopts}
+
+% für Gedichte
+\usepackage{verse}
+\renewcommand{\poemtitlefont}{\normalfont\bfseries\centering}
+
+% für Rahmen und Schatten
+\usepackage{framed}
+
+% für Bäume
+\usepackage{ecltree}
+
+% für die demokratischen Tabellen
+\usepackage{tabularx}
+
+% für den Blitz
+\usepackage{MnSymbol}
+
+\setcounter{secnumdepth}{2}
+
+\bibliography{literatur}
+
+\title{Angereicherter Geschichtsstoff der Klassen 11 und 12}
+\author{Richard Möhn}
+
+\begin{document}
+\thispagestyle{empty}
+\shorttoc{Inhaltsübersicht}{0}
+\thispagestyle{empty}
+
+\maketitle
+
+\frontmatter
+\tableofcontents
+\include{chronik}
+\include{vorwort}
+
+\mainmatter
+\include{wirtsch-pol}
+\include{dem-dikt}
+\include{dem-dikt2}
+\include{herausf-frieden}
+
+\appendix
+\include{methoden}
+\include{glossar}
+
+\backmatter
+\begin{flushleft}
+\input{agb.ind}
+\end{flushleft}
+
+\printbibliography[heading=bibintoc]
+\nocite{braunesGeschichts}
+\nocite{WeltgeschNeuz}
+\end{document}

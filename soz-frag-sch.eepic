@@ -1,0 +1,51 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(4843,3298)(0,-10)
+\path(1407,2710)(3027,2710)
+\blacken\path(2907.000,2680.000)(3027.000,2710.000)(2907.000,2740.000)(2907.000,2680.000)
+\path(3117,2575)(1227,2260)
+\blacken\path(1340.435,2309.320)(1227.000,2260.000)(1350.299,2250.136)(1340.435,2309.320)
+\path(3567,2530)(3567,2260)
+\blacken\path(3537.000,2380.000)(3567.000,2260.000)(3597.000,2380.000)(3537.000,2380.000)
+\path(867,1855)(1587,1045)
+\blacken\path(1484.854,1114.758)(1587.000,1045.000)(1529.699,1154.620)(1484.854,1114.758)
+\path(3567,1900)(3567,1630)
+\blacken\path(3537.000,1750.000)(3567.000,1630.000)(3597.000,1750.000)(3537.000,1750.000)
+\path(3387,1270)(2847,1045)
+\blacken\path(2946.231,1118.846)(2847.000,1045.000)(2969.308,1063.462)(2946.231,1118.846)
+\path(3342,280)(4557,280)(4557,1090)
+\blacken\path(4587.000,970.000)(4557.000,1090.000)(4527.000,970.000)(4587.000,970.000)
+\path(4557,1315)(4557,3205)(3117,3205)
+\blacken\path(3237.000,3235.000)(3117.000,3205.000)(3237.000,3175.000)(3237.000,3235.000)
+\path(2847,640)(2847,370)
+\blacken\path(2817.000,490.000)(2847.000,370.000)(2877.000,490.000)(2817.000,490.000)
+\path(1407,3205)(12,3205)(12,280)(2397,280)
+\blacken\path(2277.000,250.000)(2397.000,280.000)(2277.000,310.000)(2277.000,250.000)
+\put(282,2755){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}steigende}}}}
+\put(282,2575){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Einwohnerzahl}}}}
+\put(3117,2575){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}G"uterproduktion}}}}
+\put(3117,2755){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}steigende}}}}
+\put(282,2125){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Anh"aufung von Reichtum }}}}
+\put(462,1945){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}(Unternehmer)}}}}
+\put(2757,2125){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}wirtsch. Not und soz.}}}}
+\put(2757,1945){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Abh"angigkeit (Arbeiter)}}}}
+\put(2847,1495){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}geistige und physische }}}}
+\put(3027,1315){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Verarmung}}}}
+\put(777,685){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}(wenige Reiche, viele Arme, kaum Mittelschicht)}}}}
+\put(1272,865){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Polarisierung der Gesellschaft}}}}
+\put(2487,235){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Pauperismus}}}}
+\put(1947,55){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}(Armut der gesamten Gesellschaft)}}}}
+\put(1767,2800){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Befriedigung}}}}
+\put(4152,1135){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Bedrohung}}}}
+\put(1452,3160){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}b"urgerliche Gesellschaft}}}}
+\put(57,325){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Wie kann man die Armut beenden?}}}}
+\put(192,55){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}= soziale Frage}}}}
+\end{picture}
+}

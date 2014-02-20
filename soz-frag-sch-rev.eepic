@@ -1,0 +1,45 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(4655,4378)(0,-10)
+\path(2535,4195)(3345,3745)
+\blacken\path(3225.532,3777.052)(3345.000,3745.000)(3254.670,3829.502)(3225.532,3777.052)
+\path(1725,4195)(960,3745)
+\blacken\path(1048.222,3831.700)(960.000,3745.000)(1078.643,3779.984)(1048.222,3831.700)
+\path(3525,3250)(3525,2890)
+\blacken\path(3495.000,3010.000)(3525.000,2890.000)(3555.000,3010.000)(3495.000,3010.000)
+\path(735,3250)(735,2890)
+\blacken\path(705.000,3010.000)(735.000,2890.000)(765.000,3010.000)(705.000,3010.000)
+\path(3345,2305)(2535,1900)
+\blacken\path(2628.915,1980.498)(2535.000,1900.000)(2655.748,1926.833)(2628.915,1980.498)
+\path(1005,2305)(1725,1900)
+\blacken\path(1605.703,1932.684)(1725.000,1900.000)(1635.119,1984.979)(1605.703,1932.684)
+\path(2265,505)(2265,235)
+\blacken\path(2235.000,355.000)(2265.000,235.000)(2295.000,355.000)(2235.000,355.000)
+\put(1725,3835){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Antworten}}}}
+\put(15,3475){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Arbeitsbeschaffung durch}}}}
+\put(15,3280){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Produktionssteigerung}}}}
+\put(2625,3475){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Sicherung der Armen durch}}}}
+\put(2625,3280){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Belastung der Reichen}}}}
+\put(15,2755){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}erzeugt den zu bek"ampfenden}}}}
+\put(15,2560){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Zustand}}}}
+\put(2625,2755){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Widerspruch zum Grundprinzip}}}}
+\put(2625,2560){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}der b"urgerlichen Gesellschaft}}}}
+\put(1005,1720){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}b"urgerliche Gesellschaft erzeugt den}}}}
+\put(1005,1525){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}Widerspruch, kann ihn aber selbst nicht}}}}
+\put(1005,1330){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}l"osen (Bed"urfnis nach Kontrolle, die}}}}
+\put(1005,1135){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}durch die Reichen wegen ihres Selbster-}}}}
+\put(1005,940){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}haltungstriebes nicht gew"ahrleistet}}}}
+\put(1005,745){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}werden kann.)}}}}
+\put(1005,550){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}$\Longrightarrow$ Bankrotterkl"arung}}}}
+\put(1590,4240){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}\textsc{soziale Frage}}}}}
+\put(1860,55){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}\textsc{Revolution!}}}}}
+\put(15,2365){\makebox(0,0)[lb]{\smash{{\SetFigFont{9}{10.8}{\rmdefault}{\mddefault}{\updefault}"Uberma"s $\blacktriangleright\!\blacktriangleleft$ Armut}}}}
+\end{picture}
+}

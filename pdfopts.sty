@@ -1,0 +1,148 @@
+% Sprach- und Kodierungssachen
+\RequirePackage[utf8x]{inputenc}
+\RequirePackage[ngerman]{babel}
+\RequirePackage[T1]{fontenc}
+
+% Graphiksachen
+\RequirePackage{graphicx}
+\RequirePackage{pict2e}
+\RequirePackage{epic, eepic}
+\RequirePackage{color}
+
+\RequirePackage{rotating}       % für die Verdrehten
+
+\RequirePackage[final=true, colorlinks=true, breaklinks=true]{hyperref}                                 % für das Hyper im Leben
+\RequirePackage{breakurl}       % für den besonderen Umbruch
+%\RequirePackage[babel=true, final]{microtype}
+                                % für den schönen Rand
+\RequirePackage{multicol}       % für Spalten
+\RequirePackage{supertabular}   % für die RIESENtabellen
+\RequirePackage{tabulary}       % für die dynamischen Tabellen
+\RequirePackage{booktabs}       % für die schönen Tabellen
+\RequirePackage{multirow}       % für die ganz besonderen Tabellen
+\RequirePackage{shorttoc}       % für die Übersicht
+\RequirePackage{biblatex}       % für die Literatur
+
+% für die Zitate
+\RequirePackage{xargs}          % für die ganz Speziellen
+\newcommandx*{\mycite}[2][1]{\textsuperscript{\cite[#1]{#2}}}
+\RequirePackage[babel=true, german=guillemets]{csquotes}
+\renewcommand*{\mkcitation}[1]{#1}
+\renewcommand*{\mkccitation}[1]{#1}
+
+
+% Ja, gelegentlich braucht man Fußnoten in Tabellen.
+\RequirePackage{footnote}
+\makesavenoteenv{supertabular*}
+
+% für schöne schmale Spalten
+\usepackage[
+    newcommands,
+    raggedrightboxes
+]{ragged2e}
+
+
+\makeindex
+
+
+\widowpenalty=10000
+
+\hyphenation{Fort-schrit-te}
+
+% Datumsangaben
+\newcommand*{\dat}[1]{\textbf{#1}}
+% im Glossar aufgeführtes
+\newcommand*{\beg}[1]{\textsf{#1}\index{#1}}
+% im Glossar aufgeführtes, hier für korrekten Index
+\newcommand*{\Beg}[2]{\textsf{#2}\index{#1}}
+% Personen
+\newcommand*{\nam}[1]{\textsc{#1}\index{#1}}
+% Person mit flektiertem Namen (für korrekten Index)
+\newcommand*{\Nam}[2]{\textsc{#2}\index{#1}}
+% umgeändert in Begriffe eines Jargons oder aus einem bestimmten Werk
+\newcommand*{\jar}[1]{\enquote*{#1}}
+% Begriffe des NS -- nur noch aus Kompatibilitätsgründen
+\newcommand*{\nat}[1]{\enquote*{#1}}
+% Gesetze
+\newcommand*{\ges}[1]{\emph{#1}\index{#1}}
+% Gesetz mit flektiertem Namen (für korrekten Index)
+\newcommand*{\Ges}[2]{\emph{#2}\index{#1}}
+% geographischer Begriff
+\newcommand*{\ort}[1]{\emph{#1}\index{#1}}
+% geographischer Begriff mit flektiertem Namen (für korrekten Index)
+\newcommand*{\Ort}[2]{\emph{#2}\index{#1}}
+% Institution
+\newcommand*{\ins}[1]{\emph{#1}\index{#1}}
+% Institution mit flektiertem Namen (für korrekten Index)
+\newcommand*{\Ins}[2]{\emph{#2}\index{#1}}
+% was für Marginalspalten
+\newcommand*{\mar}[1]{\marginline{\footnotesize #1}}
+% römische Zahlen
+\newcommand*{\Rm}[1]{\MakeUppercase{\romannumeral #1{.}}}
+
+% mögliche Prüfungsaufgaben
+\newenvironment*{aufgabe}{%
+    \marginpar[%
+        \raggedleft\textbf{\\ \vspace{0.2em} \Huge a}]%
+        {\raggedright\textbf{\\ \vspace{0.2em} \Huge a}}%
+    \noindent}{}
+
+%% falls ich mal Initiale brauche
+%\RequirePackage{lettrine}
+%\RequirePackage{perltex}        % for the very special commands
+%\perlrenewcommand{\int}[1]{
+%    @chars = split(//, $_[0]);
+%    return '\lettrine{'
+%        . shift(@chars)
+%        . '}{'
+%        . join("", @chars)
+%        . '}'
+%}
+
+% Liste, wie sie im Kamelbuch für die typographischen Konventionen
+% verwendet wird
+\newcommand*{\perldesclbl}[1]{%
+    \parbox[b]{\labelwidth}%
+    {\makebox[0pt][l]{#1}\\\mbox{}\hfill}}
+\newenvironment*{perldesc}%
+{%
+  \begin{list}{}%
+  {%
+    \let\makelabel\perldesclbl%
+    \setlength\labelwidth{40pt}%
+    \newlength{\sumlength}
+    \addtolength{\sumlength}{\labelwidth}
+    \addtolength{\sumlength}{\labelsep}
+    \setlength\leftmargin{\sumlength}%
+  }%
+}%
+{%
+  \end{list}
+}
+% Vielleicht schaffen wir es noch, das Listenlabel danach umzubrechen?
+
+% Listen für die Verwendung innerhalb von Tabellen
+\newenvironment*{tablist}%
+{%
+    \begin{list}{$\bullet$}%
+    {%
+        \setlength{\itemsep}{0pt}%
+        \setlength{\parsep}{1ex}%
+        \setlength{\partopsep}{0ex}%
+        \setlength{\topsep}{0pt}%
+        \setlength{\itemindent}{0pt}%
+        \setlength{\listparindent}{0pt}%
+        \setlength{\labelsep}{1ex}%
+        \setlength{\labelwidth}{1.3ex}%
+        \setlength{\leftmargin}{\labelwidth}%
+        \setlength{\rightmargin}{0pt}%
+    }%
+    \raggedright%
+}%
+{%
+    \end{list}
+}%
+
+% für die Jahreszahlen
+\RequirePackage{eqlist}
+\newenvironment*{chronik}{\begin{eqlist}[\eqlistinit\def\makelabel##1{\raggedleft ##1 \qquad}]}{\end{eqlist}}

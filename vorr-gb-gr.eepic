@@ -1,0 +1,70 @@
+\setlength{\unitlength}{0.00087489in}
+%
+\begingroup\makeatletter\ifx\SetFigFont\undefined%
+\gdef\SetFigFont#1#2#3#4#5{%
+  \reset@font\fontsize{#1}{#2pt}%
+  \fontfamily{#3}\fontseries{#4}\fontshape{#5}%
+  \selectfont}%
+\fi\endgroup%
+{\renewcommand{\dashlinestretch}{30}
+\begin{picture}(5863,2667)(0,-10)
+\path(4335,1932)(3885,1482)
+\path(3927.426,1545.640)(3885.000,1482.000)(3948.640,1524.426)
+\path(1725,1932)(2175,1482)
+\path(2111.360,1524.426)(2175.000,1482.000)(2132.574,1545.640)
+\path(4065,1302)(3795,1302)
+\path(3870.000,1317.000)(3795.000,1302.000)(3870.000,1287.000)
+\path(1905,1302)(2175,1302)
+\path(2100.000,1287.000)(2175.000,1302.000)(2100.000,1317.000)
+\path(3075,672)(3075,1077)
+\path(3090.000,1002.000)(3075.000,1077.000)(3060.000,1002.000)
+\path(3075,1932)(3075,1482)
+\path(3060.000,1557.000)(3075.000,1482.000)(3090.000,1557.000)
+\path(4335,672)(3885,1122)
+\path(3948.640,1079.574)(3885.000,1122.000)(3927.426,1058.360)
+\path(2220,1392)(3750,1392)(3750,1167)
+	(2220,1167)(2220,1392)
+\put(15,537){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}einheitlicher Staat, einheitlicher Markt}}}}
+\put(15,432){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}$\rightarrow$ keine Z"olle}}}}
+\put(15,327){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}$\rightarrow$ g"unstige Preise}}}}
+\put(15,222){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}$\rightarrow$ gute Infrastruktur}}}}
+\put(15,117){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}$\rightarrow$ einheiltiche Ma"se und Gewichte}}}}
+\put(4110,432){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- \dat{1767 Spinning Jenny}}}}}
+\put(4110,327){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- \dat{1776 Dampfmaschine}}}}}
+\put(4110,222){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- \dat{1785 mechanischer Webstuhl}}}}}
+\put(4110,117){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- \dat{1830 Eisenbahn}}}}}
+\put(4110,537){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Erfindungen (v.\,a. Textilbereich):}}}}
+\put(4110,1302){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}\beg{Wirtschaftsliberalismus}~ (John Locke):}}}}
+\put(4110,1197){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Eigeninitiavie statt staatliche Lenkung}}}}
+\put(15,2292){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- F"orderung des Besitzb"urgertums}}}}
+\put(15,2202){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Umbau vom Agrarstaat zur}}}}
+\put(15,2022){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Sicherung der Stellung des B"urgertums}}}}
+\put(105,1932){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}  in Verfassung und Parlament}}}}
+\put(15,2562){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Umbruch der englischen Gesellschaft nach}}}}
+\put(15,2382){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Schw"achung des Adels}}}}
+\put(15,2472){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}der \dat{Glorious Revolution 1688/89} }}}}
+\put(4110,2562){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Erwerb eines umfangreichen}}}}
+\put(4110,2457){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Kolonialreiches}}}}
+\put(4110,2352){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- billige Rohstoffe}}}}
+\put(4110,2247){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Arbeitskr"afte}}}}
+\put(4110,2037){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Steuereinnahmen}}}}
+\put(4110,2142){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Absatzm"arkte}}}}
+\put(60,1302){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}g"unstig erreichbare}}}}
+\put(60,1212){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Rohstoffvorkommen (Kohle, Eisen)}}}}
+\put(2265,447){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Enteignung kleiner Bauern}}}}
+\put(2265,342){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Zusammenlegung der Fl"achen}}}}
+\put(2265,237){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- bessere Versorgung m"oglich}}}}
+\put(2265,132){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Schafzucht/Wollproduktion}}}}
+\put(2265,537){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}\beg{enclosure system}~:}}}}
+\put(2355,2562){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Aufbau einer Flotte}}}}
+\put(2355,2457){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Piraterie (Geld)}}}}
+\put(2355,2157){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- konkurrenzlos!}}}}
+\put(2355,2352){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}-- Handel (Kenntnis der}}}}
+\put(2265,1257){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}Vorreiterrolle Englands}}}}
+\put(2355,42){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}  im gro"sen Stil}}}}
+\path(1725,672)(2175,1122)
+\path(2121.967,1047.754)(2175.000,1122.000)(2100.754,1068.967)
+\put(105,2112){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}  gewerblichen Produktio n}}}}
+\put(2445,2247){\makebox(0,0)[lb]{\smash{{\SetFigFont{6}{7.2}{\rmdefault}{\mddefault}{\updefault}  Seestra"sen)}}}}
+\end{picture}
+}
